@@ -2,7 +2,6 @@
 
 Using the new Express 4.0 Router to build an API
 
-[Read the tutorial](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
 
 ## Requirements
 
@@ -10,7 +9,7 @@ Using the new Express 4.0 Router to build an API
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:scotch-io/node-api`
+- Clone the repo: `git clone git@github.com:anandbanik/node-api`
 - Install dependencies: `npm install`
 - Start the server: `node server.js`
 
